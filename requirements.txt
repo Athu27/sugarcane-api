@@ -3,5 +3,3 @@ tensorflow
 pillow
 numpy
 gunicorn
-uvicorn
-gdown
